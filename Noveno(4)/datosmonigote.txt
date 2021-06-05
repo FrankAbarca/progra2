@@ -1,0 +1,6 @@
+monigote.png
+asteroide.jpg
+4
+2
+8
+8
